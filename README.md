@@ -1,7 +1,7 @@
 # computational_syntax
 Coding files from the course LT2214 computational syntax 2024.
 
-### Multilingual generation and translation
+### Multilingual generation and translation (mini version)
 
 Design a morphology for the main lexical types (N, A, V) with parameters and a couple of paradigms. Test it by implementing the lexicon in the MicroLang module. Define lincat N,A,V,V2 as well as the paradigms in MicroResource. The lexicon part of files MicroLangZh.gf and MicroResZh.gf for my language of choice Chinese. 
 Define the linearization types of main phrasal categories - the remaining categories in MicroLang. Define the rest of the linearization rules in MicroLang. MicroLangZh.gf and MicroResZh.gf for my language of choice Chinese, with the lexicon part from above completed with syntax part.
