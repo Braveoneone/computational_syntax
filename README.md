@@ -15,10 +15,13 @@ Define the linearization types of main phrasal categories - the remaining catego
 
 ### How to run my code?
 > gf
-Then going into gf command
+> 
 > i /MicroLangZh.gf
+> 
 > i /MicroResZh.gf
+> 
 > gr            generate Chinese grammar randomly
+> 
 > gr | l        generate Chinese sentence randomly
 
 if File it shows MicroResZh.gf does not exist
