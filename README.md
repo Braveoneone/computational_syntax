@@ -24,6 +24,6 @@ Define the linearization types of main phrasal categories - the remaining catego
 > 
 > gr | l        generate Chinese sentence randomly
 
-if File it shows MicroResZh.gf does not exist
+if it shows MicroResZh.gf does not exist
 > i /yourFilePath/MicroLangZh.gf
 
